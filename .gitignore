@@ -1,0 +1,5 @@
+# ignore node things 
+node_modules/
+
+# ignore build artifacts
+dist/*.bundle.*
